@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 👩🏼‍💻 Check out the page: https://mkhalid-s.github.io/
 
-👩🏼‍💻 OR Check out my website: https://mkhalid-s.github.io/
+👩🏼‍💻 OR Check out my website: https://khalidshaikh.engineer/
