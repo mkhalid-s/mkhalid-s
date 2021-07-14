@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩🏼‍💻 OR Check out my website: https://khalidshaikh.engineer/
+👩🏼‍💻 Check out my website: https://khalidshaikh.engineer/
