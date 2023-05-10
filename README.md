@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩🏼‍💻 Check out my website: https://khalidshaikh.me/
+👩🏼‍💻
