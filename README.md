@@ -2,13 +2,13 @@
 
 ```text
 $ whoami
-khalid shaikh — software engineer
+khalid shaikh — senior software engineer · bengaluru, india
 
-  builds   tools that do more with less
-  now      headroom · cutting LLM costs by 60–95%
-  before   ~5 yrs on the Guidewire cloud platform
-  stack    java · spring · aws · python · rust · typescript
-  likes    fast systems · clean abstractions · deleting code
+  experience  12+ years across BFSI & telecom
+  now         Guidewire Cloud Platform — PolicyCenter / ClaimCenter / AI features
+  building    headroom · cutting LLM costs by 60–95%
+  stack       java · gosu · spring · aws · python · typescript · llm/mcp
+  likes       fast systems · clean abstractions · deleting code
 ```
 
-→ **[mkhalid-s.github.io](https://mkhalid-s.github.io)** &nbsp;·&nbsp; [headroom](https://github.com/mkhalid-s/headroom) &nbsp;·&nbsp; [framefusevid](https://github.com/mkhalid-s/framefusevid)
+→ **[mkhalid-s.github.io](https://mkhalid-s.github.io)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mkhalidshaikh) &nbsp;·&nbsp; [headroom](https://github.com/mkhalid-s/headroom) &nbsp;·&nbsp; [framefusevid](https://github.com/mkhalid-s/framefusevid)
