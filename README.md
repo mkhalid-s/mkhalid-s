@@ -1,6 +1,6 @@
 # Khalid Shaikh
 
-Senior Software Engineer · Bengaluru, India · 12+ years across BFSI & telecom
+Senior Software Engineer · India · 12+ years across BFSI & telecom
 
 I build dependable systems across insurance platforms and applied AI—designed
 to do more with less.
